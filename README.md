@@ -41,16 +41,6 @@ O projeto combina os padrões **DAO/DTO** com uma separação inspirada em **MVC
 - **Controladora**: `CampanhaControladora` recebe as ações (criar campanha, definir público-alvo, iniciar/encerrar campanha, enviar mensagens) e coordena DAO e Modelo
 - **Visão**: `CampanhaView` e `StatusPessoaView` exibem os dados em janelas Swing
 
-## Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/CRM_Clientes_java.git
-   ```
-2. Importe o projeto em uma IDE Java (Eclipse, IntelliJ ou NetBeans)
-3. Configure a conexão com o banco de dados no arquivo de conexão
-4. Execute a classe principal do projeto
-
 ## Autor
 
 **Guilherme Augusto Werlang**
